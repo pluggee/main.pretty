@@ -1,4 +1,4 @@
-(module SOP65P650X440-20NT420X300 (layer F.Cu) (tedit 575B1F8D)
+(module SOP65P650X440X120-20NT420X300 (layer F.Cu) (tedit 575CEC76)
   (descr "SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)")
   (tags "SSOP 0.65")
   (attr smd)
@@ -8,6 +8,9 @@
   (fp_text value SOP65P650X440-20NT420X300 (at 0 4.1) (layer F.Fab) hide
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
+  (fp_line (start -3.6 -2.9) (end -4.1 -3.2) (layer F.SilkS) (width 0.1524))
+  (fp_line (start -4.1 -3.2) (end -4.1 -2.6) (layer F.SilkS) (width 0.1524))
+  (fp_line (start -4.1 -2.6) (end -3.6 -2.9) (layer F.SilkS) (width 0.1524))
   (fp_line (start -3.65 -3.55) (end -3.65 3.55) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.65 -3.55) (end 3.65 3.55) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.65 -3.55) (end 3.65 -3.55) (layer F.CrtYd) (width 0.05))
