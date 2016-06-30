@@ -17,4 +17,9 @@
   (pad 1 thru_hole circle (at -3.25 2.25) (size 1.524 1.524) (drill 0.99) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 3.25 -2.25) (size 1.524 1.524) (drill 0.99) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -3.25 -2.25) (size 1.524 1.524) (drill 0.99) (layers *.Cu *.Mask F.SilkS))
+  (model main.3dshapes/SPST_PUSHBTN_3-1825910-5.wrl
+    (at (xyz 0 0 0.35))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 90))
+  )
 )
