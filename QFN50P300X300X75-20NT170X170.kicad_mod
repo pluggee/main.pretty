@@ -46,9 +46,9 @@
   (pad 21 thru_hole circle (at -0.6 0.6) (size 0.6 0.6) (drill 0.3) (layers *.Cu F.SilkS F.Mask))
   (pad 21 thru_hole circle (at 0.6 0.6) (size 0.6 0.6) (drill 0.3) (layers *.Cu F.SilkS F.Mask))
   (pad 21 thru_hole circle (at 0.6 -0.6) (size 0.6 0.6) (drill 0.3) (layers *.Cu F.SilkS F.Mask))
-  (model Housings_DFN_QFN.3dshapes/QFN-20-1EP_4x4mm_Pitch0.5mm.wrl
+  (model main.3dshapes/QFN50P300X300X75-20NT170X170.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 90))
   )
 )
