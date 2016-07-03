@@ -19,4 +19,9 @@
   (pad 4 thru_hole circle (at 0 -0.635) (size 1.1 1.1) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 1.27 0.635) (size 1.1 1.1) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 1.27 -0.635) (size 1.1 1.1) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
+  (model main.3dshapes/SOCKET127P-02x03.wrl
+    (at (xyz -0.55 0.048 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 90 0 180))
+  )
 )
