@@ -1,9 +1,12 @@
-(module SOCKET420P-02X04 (layer F.Cu) (tedit 577C6D7B)
+(module SOCKET420P-02X04 (layer F.Cu) (tedit 577C718A)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SOCKET420P-02X04 (at 0 -0.5) (layer F.Fab) hide
     (effects (font (size 0.127 0.127) (thickness 0.03)))
+  )
+  (fp_text user "CPU POWER" (at 0 9.9) (layer F.SilkS)
+    (effects (font (size 3 1.8) (thickness 0.3)))
   )
   (fp_line (start -1.7 13.85) (end 1.7 13.85) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.7 16.85) (end 1.7 13.85) (layer F.SilkS) (width 0.15))
