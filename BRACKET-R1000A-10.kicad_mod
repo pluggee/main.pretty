@@ -1,4 +1,4 @@
-(module BRACKET-R1000A (layer F.Cu) (tedit 57EC9AB9)
+(module BRACKET-R1000A-10 (layer F.Cu) (tedit 57EC9AB9)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -7,7 +7,7 @@
   )
   (pad "" np_thru_hole circle (at -56.3 0) (size 3 3) (drill 2.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 56.3 0) (size 3 3) (drill 2.7) (layers *.Cu *.Mask))
-  (model main.3dshapes/BRACKET-1000A.wrl
+  (model main.3dshapes/BRACKET-1000A-10.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
