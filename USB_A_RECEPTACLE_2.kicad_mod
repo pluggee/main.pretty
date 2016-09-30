@@ -25,8 +25,8 @@
   (pad 5 thru_hole oval (at -2.57 7.11) (size 1.5 2.4) (drill oval 1.1 2) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at -2.57 3.27) (size 1.5 2.4) (drill oval 1.1 2) (layers *.Cu *.Mask))
   (model main.3dshapes/USB_A_RECEPTACLE_2.wrl
-    (at (xyz -0.005 -0.215 0.29))
-    (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz -90 0 -90))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
