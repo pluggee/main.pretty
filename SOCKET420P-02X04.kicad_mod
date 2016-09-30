@@ -24,8 +24,8 @@
   (pad 4 thru_hole circle (at -6.3 2.75) (size 3 3) (drill 1.87) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole circle (at -6.3 -2.75) (size 3 3) (drill 1.87) (layers *.Cu *.Mask F.SilkS))
   (model main.3dshapes/SOCKET420P-02X04.wrl
-    (at (xyz 0 -0.664 0.208))
-    (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz -90 0 0))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
