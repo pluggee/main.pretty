@@ -19,9 +19,4 @@
   (pad 8 thru_hole circle (at 1.27 -0.635) (size 1.016 1.016) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 2.54 0.635) (size 1.016 1.016) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at 2.54 -0.635) (size 1.016 1.016) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/CONN127P-02X05.wrl
-    (at (xyz 0.5 0 0.035))
-    (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 0 0 0))
-  )
 )
