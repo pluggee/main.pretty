@@ -1,4 +1,4 @@
-(module USB_B (layer F.Cu) (tedit 55B36073)
+(module USB_B_RECEPTACLE (layer F.Cu) (tedit 55B36073)
   (descr "USB B connector")
   (tags "USB_B USB_DEV")
   (fp_text reference REF** (at 11.049 1.27 90) (layer F.SilkS)
@@ -23,9 +23,9 @@
   (pad 3 thru_hole circle (at 1.99898 2.54 270) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 4.699 7.26948 270) (size 2.70002 2.70002) (drill 2.30124) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 4.699 -4.72948 270) (size 2.70002 2.70002) (drill 2.30124) (layers *.Cu *.Mask F.SilkS))
-  (model Connect.3dshapes/USB_B.wrl
-    (at (xyz 0.185 -0.05 0.001))
-    (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 0 0 -90))
+  (model main.3dshapes/USB_B_RECEPTACLE.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
