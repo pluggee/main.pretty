@@ -28,8 +28,8 @@
   (pad SHLD smd rect (at 6.875 14.45) (size 1.45 0.9) (layers F.Cu F.Paste F.Mask))
   (pad SHLD smd rect (at -6.875 2.75) (size 1.45 0.9) (layers F.Cu F.Paste F.Mask))
   (model main.3dshapes/CONN_SCHD3A0100.wrl
-    (at (xyz -0.24469 -0.6614 0.063))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
