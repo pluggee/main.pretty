@@ -27,6 +27,6 @@
   (model Socket_Strips.3dshapes/Socket_Strip_Straight_1x06.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
 )
