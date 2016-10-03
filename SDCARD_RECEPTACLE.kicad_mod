@@ -36,4 +36,9 @@
   (pad 13 smd rect (at -13.6 7.3) (size 1.2 2.2) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 12.1 9.4) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -12.1 9.4) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
+  (model main.3dshapes/SDCARD_RECEPTACLE.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
