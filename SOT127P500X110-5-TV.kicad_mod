@@ -114,9 +114,9 @@
   (pad 5 smd rect (at -2.2 -0.45) (size 0.6 3.3) (layers F.Cu))
   (pad 5 smd rect (at -2.2 -0.45) (size 0.6 3.3) (layers B.Cu))
   (pad 5 smd rect (at 2.2 -0.45) (size 0.6 3.3) (layers B.Cu))
-  (model TO_SOT_Packages_SMD.3dshapes/SOT-669_LFPAK_ThermalVias-1.wrl
+  (model main.3dshapes/SOT127P500X110-5.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
