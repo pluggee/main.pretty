@@ -1,5 +1,5 @@
-(module PCIESOCKET-X1 (layer F.Cu) (tedit 575B415E)
-  (fp_text reference REF** (at -13.4 0 90) (layer F.SilkS)
+(module PCIESOCKET-X1 (layer F.Cu) (tedit 58DDEA03)
+  (fp_text reference REF** (at -13.4 0 90) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value PCIExpress_x1_Vertical_ThruHole (at 0 -4.318) (layer F.Fab) hide
