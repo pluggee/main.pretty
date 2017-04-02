@@ -1,4 +1,4 @@
-(module SOIC127P870X390X175-14 (layer F.Cu) (tedit 579A962C)
+(module SOIC127P870X390X175-14 (layer F.Cu) (tedit 58E16E7B)
   (descr "14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "SOIC 1.27")
   (attr smd)
@@ -8,6 +8,7 @@
   (fp_text value SOIC-14_3.9x8.7mm_Pitch1.27mm (at 0 4.953) (layer F.Fab) hide
     (effects (font (size 0.127 0.127) (thickness 0.03)))
   )
+  (fp_circle (center -4.2 -3.8) (end -3.9 -3.8) (layer F.SilkS) (width 0.1524))
   (fp_line (start -3.7 -4.65) (end -3.7 4.65) (layer F.CrtYd) (width 0.05))
   (fp_line (start 3.7 -4.65) (end 3.7 4.65) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.7 -4.65) (end 3.7 -4.65) (layer F.CrtYd) (width 0.05))
