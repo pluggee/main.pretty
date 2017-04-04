@@ -16,8 +16,8 @@
   (pad 1 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 1.0414) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 1.0414) (layers *.Cu *.Mask F.SilkS))
   (model main.3dshapes/SOCKET254P-01X02.wrl
-    (at (xyz 0 0.018 0.1))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
