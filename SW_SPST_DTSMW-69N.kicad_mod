@@ -1,4 +1,4 @@
-(module Button_Switch_SMD:SW_SPST_EVQP0 (layer F.Cu) (tedit 5C1AC0C6)
+(module SW_SPST_DTSMW-69N (layer F.Cu) (tedit 5C240F92)
   (descr "Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf")
   (attr smd)
   (fp_text reference REF** (at 0 -3.9) (layer F.SilkS)
@@ -27,11 +27,11 @@
   (fp_line (start 3.35 3.1) (end 3.35 2.7) (layer F.SilkS) (width 0.12))
   (fp_line (start -3.35 3.1) (end 3.35 3.1) (layer F.SilkS) (width 0.12))
   (fp_line (start -3.35 2.65) (end -3.35 3.1) (layer F.SilkS) (width 0.12))
-  (pad 2 smd rect (at 2.88 2) (size 2.75 1) (layers F.Cu F.Paste F.Mask))
-  (pad 2 smd rect (at -2.88 2) (size 2.75 1) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at -2.88 -2) (size 2.75 1) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd rect (at 2.88 -2) (size 2.75 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_EVQP0.wrl
+  (pad 2 smd rect (at 4.45 2) (size 2.1 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -4.45 2) (size 2.1 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at -4.45 -2) (size 2.1 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 4.45 -2) (size 2.1 1.4) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/main.3dshapes/SW_SPST_DTSMW-69N.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
