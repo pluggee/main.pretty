@@ -56,7 +56,7 @@
     (solder_mask_margin 0.075) (solder_paste_margin -0.05))
   (pad 6 smd rect (at 0.6 -2.9) (size 0.6 0.9) (layers F.Paste))
   (pad 7 smd rect (at 0 -0.2 90) (size 0.6 0.9) (layers F.Paste))
-  (model main.3dshapes/SOT127P500X110-5.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/SOT127P500X110-5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

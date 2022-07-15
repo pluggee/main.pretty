@@ -21,7 +21,7 @@
   (pad 1 thru_hole circle (at -3.5 0 270) (size 1.50114 1.50114) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 6.57 2.71 270) (size 2.99974 2.99974) (drill 2.30124) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at -6.57 2.71 270) (size 2.99974 2.99974) (drill 2.30124) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/USB_A_RECEPTACLE.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/USB_A_RECEPTACLE.wrl
     (at (xyz 0 0.03 0.27))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

@@ -25,7 +25,7 @@
   (pad 2 thru_hole oval (at -1.27 0) (size 1.7272 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 1.27 0) (size 1.7272 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 3.81 0) (size 1.7272 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/SOCKET254P-01X04-1725672.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/SOCKET254P-01X04-1725672.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

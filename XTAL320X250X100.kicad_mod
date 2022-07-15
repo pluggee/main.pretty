@@ -17,7 +17,7 @@
   (pad 2 smd rect (at 1.1 0.85) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.1 -0.85) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -1.1 -0.85) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
-  (model main.3dshapes/XTAL320X250X100.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/XTAL320X250X100.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

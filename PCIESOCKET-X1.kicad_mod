@@ -47,7 +47,7 @@
   (pad B16 thru_hole circle (at 7.35 3.25) (size 1.23 1.23) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad B17 thru_hole circle (at 8.35 1.25) (size 1.23 1.23) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad B18 thru_hole circle (at 9.35 3.25) (size 1.23 1.23) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/PCIESOCKET-X1.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/PCIESOCKET-X1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -20,7 +20,7 @@
   (pad 6 smd rect (at 0.325 -2.97) (size 0.45 1.78) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -0.325 -2.97) (size 0.45 1.78) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -0.975 -2.97) (size 0.45 1.78) (layers F.Cu F.Paste F.Mask))
-  (model main.3dshapes/SOP65P440X300X120-8.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/SOP65P440X300X120-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -23,7 +23,7 @@
   (pad 8 thru_hole circle (at 2.54 -1.27) (size 1.4 1.4) (drill 1.05) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 5.08 1.27) (size 1.4 1.4) (drill 1.05) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at 5.08 -1.27) (size 1.4 1.4) (drill 1.05) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/CONN254P-02X05.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/CONN254P-02X05.wrl
     (at (xyz 0.4 -0.12 0.35))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 90 0 180))

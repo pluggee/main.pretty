@@ -15,7 +15,7 @@
   (fp_line (start -2.54 1.5) (end -2.54 -1.5) (layer F.SilkS) (width 0.1524))
   (pad 1 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 1.0414) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 1.0414) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/SOCKET254P-01X02_2.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/SOCKET254P-01X02_2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (pad 3 thru_hole circle (at 2.54 0) (size 2.2 2.2) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 7.62 0) (size 2.2 2.2) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -10.16 2.54) (size 2.6 2.6) (drill 2.6) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/SOCKET508P-01X04.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/SOCKET508P-01X04.wrl
     (at (xyz 0 -0.5 0.18))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 0))

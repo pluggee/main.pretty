@@ -102,7 +102,7 @@
   (pad "" np_thru_hole circle (at 19 -24.5) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -39 24.5) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -39 -24.5) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask F.SilkS))
-  (model main.3dshapes/DOCK_RPI.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/DOCK_RPI.wrl
     (at (xyz 0 0 0.7874))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 0))

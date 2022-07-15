@@ -15,7 +15,7 @@
   (pad 2 smd rect (at -1.145 -3.735) (size 7.62 2.95) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 4.115 3.735) (size 1.68 2.95) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 4.115 -3.735) (size 1.68 2.95) (layers F.Cu F.Paste F.Mask))
-  (model main.3dshapes/RESC940914X064.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/RESC940914X064.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

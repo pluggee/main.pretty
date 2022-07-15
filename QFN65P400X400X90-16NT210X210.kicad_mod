@@ -48,7 +48,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 17 smd rect (at -0.625 -0.625) (size 1.25 1.25) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model main.3dshapes/QFN65P400X400X90-16NT210X210.wrl
+  (model ${KISYS3DMOD}/main.3dshapes/QFN65P400X400X90-16NT210X210.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
